@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136706446092",
+    "project_id": "kuriakose-demo-app",
+    "storage_bucket": "kuriakose-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136706446092:android:d955fb2a04e03fe8c86f29",
+        "android_client_info": {
+          "package_name": "com.example.kuriakosedemoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHT6bLBPY4p7zeDX12bB717HYT-ivH1rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
